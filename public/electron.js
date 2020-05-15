@@ -20,8 +20,8 @@ let mainWindow;
 function createWindow() {
   process.env["ELECTRON_DISABLE_SECURITY_WARNINGS"] = "true";
   mainWindow = new BrowserWindow({
-    width: 450,
-    height: 680,
+    width: 700,
+    height: 640,
     resizable: true,
     darkTheme: true,
   });

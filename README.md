@@ -1,8 +1,21 @@
-## Instagram Electron React
+# Social Gallery
 
-In the project directory, you can run:
+![Social Gallery](https://github.com/RandolphG/instagram-electron/blob/master/public/_social_gallery.gif?raw=true)
+
+### Installation process :
+
+- clone repo
+- navigate to project folder
+- install all dependencies with npm
+- run with npm
 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+```bash
+$ git clone https://github.com/RandolphG/instagram-electron.git
+$ cd project
+$ npm i
+$ npm run electron
+```
+## Features
+- framer motion
+- styled-components
